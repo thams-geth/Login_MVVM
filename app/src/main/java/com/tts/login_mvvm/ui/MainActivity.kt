@@ -1,7 +1,8 @@
-package com.tts.login_mvvm
+package com.tts.login_mvvm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tts.login_mvvm.R
 
 class MainActivity : AppCompatActivity() {
 
